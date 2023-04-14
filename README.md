@@ -15,6 +15,7 @@
    <img align="left" src="https://github.com/D1nviz/D1nviz/blob/master/Images/sass.png" title="SASS" alt="SASS" width="40px" style="margin-left: 30px;">
    <img align="left" src="https://github.com/D1nviz/D1nviz/blob/master/Images/js.png" title="JS" alt="JS" width="32px" style="margin-left: 30px;">
    <img align="left" src="https://github.com/D1nviz/D1nviz/blob/master/Images/react.png" title="React" alt="React" width="32px" style="margin-left: 30px;">
+   <img align="left" src="https://github.com/D1nviz/D1nviz/blob/master/Images/redux.png" title="React" alt="Redux" width="32px" style="margin-left: 30px;">
    <img align="left" src="https://github.com/D1nviz/D1nviz/blob/master/Images/git.png" title="Git" alt="Git" width="32px" style="margin-left: 30px;">
    <img align="left" src="https://github.com/D1nviz/D1nviz/blob/master/Images/gulp.png" title="Gulp.js" alt="Gulp.js" width="13px" style="margin-left: 30px;"> 
 </div>
